@@ -1,11 +1,17 @@
 # FAST_API_TODO
 
 Created a basic To-do list API.
+
 • Use REST API
+
 • Implementation of CRUD functionalities.
+
 • Using FastAPI as framework.
+
 • Used MySqlite.
 
+
+# Instructions:
 
 Make a Directory for the Project and navigate into it
 
