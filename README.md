@@ -1,4 +1,4 @@
-# FAST_API_TODO
+# FastAPI_TODO
 
 Created a basic To-do list API.
 
