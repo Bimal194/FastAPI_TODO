@@ -21,7 +21,12 @@ Create a Python Virtual Environment and Activate it
 
 `python3 -m venv venv`
 `ls`
+
 `source venv/bin/activate`
+or
+
+`.\env\Scripts\activate.ps1`
+
 
 Install Fastapi
 
